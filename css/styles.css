@@ -11,6 +11,20 @@ header h1 {
 }
 
 header p {
-  padding-left: 100px;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 50px;
   padding-right: 100px;
+}
+
+.main {
+  padding: 50px;
+}
+
+.pixel p {
+  font-size: 18px;
+}
+
+.pixel img {
+  width: 400px;
 }
